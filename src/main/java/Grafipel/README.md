@@ -1,0 +1,3 @@
+Nas aulas com o docente Lucas, aprendi a utilizar a linguagem Java, especialmente o uso de vetores e interfaces. Estudei conceitos como **Regras de Negócio**, **Requisitos Funcionais (RF)** e **Requisitos Não Funcionais (RNF)**, além de aprender sobre **casos de uso**, **atores** e **relacionamentos**. Também entendi como representar essas interações com **diagramas de casos de uso**.
+
+Em Java, aprendi sobre **atributos** e como defini-los com diferentes níveis de acesso. Também estudei **métodos personalizados** e **métodos especiais**, como o **construtor**. Além disso, aprendi a utilizar **métodos get e set** para acessar e modificar atributos privados, garantindo o encapsulamento.
